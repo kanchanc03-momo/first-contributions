@@ -2,14 +2,15 @@
 
 # Contributors
 
-8 people have made their first contribution to VOSS Labs.
+9 people have made their first contribution to VOSS Labs.
 
-**By year:** TE 4 · BE 4
+**By year:** FE 1 · TE 4 · BE 4
 
-**By skill:** git 8 · python 7 · javascript 6 · c-cpp 4 · react 4 · java 3 · sql 3 · dsa 2 · typescript 2 · go 1 · html-css 1
+**By skill:** git 8 · python 7 · javascript 6 · react 5 · c-cpp 4 · java 4 · sql 3 · dsa 2 · typescript 2 · go 1 · html-css 1
 
 | Name | Year | Branch | Knows | Wants to learn |
 | --- | --- | --- | --- | --- |
+| [Aditya Chavan](https://github.com/adiiwithgit) | FE | EXTC | java, react | web applications |
 | [Anup Sawant](https://github.com/anup-sawant12) | TE | EXCS | c-cpp, python, javascript, react, git | Java,Node.js,Express.js,Django,REST APIs,MySQL,MongoDB,Open Source |
 | [Armash Ansari](https://github.com/armash66) | TE | EXCS | git, python, javascript, react, sql | Systems Designing,Open Source |
 | [Harshal More](https://github.com/harshalmore31) | BE | EXCS | git, c-cpp, java, python, javascript, typescript, react, sql, go | neural systems and brain-inspired computation |
